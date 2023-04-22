@@ -15,7 +15,7 @@ In my method, I would summarize every combination of offensive personnel and def
 6. The difference is the metric I use to evaluate linemen performance
 7. Use tracking data to get more ideas about teams' good and awful personnel
 
-# Features of this method:
+# Features of this method
 - Quantify the performance of the linemen
 - Suitable for both offensive and defensive line
 - Eliminate other factors but focus on linemen
